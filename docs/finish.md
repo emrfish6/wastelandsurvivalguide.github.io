@@ -57,6 +57,7 @@ Securitrons On Alert.esm
 DynamicWeaponDisplays.esm
 WashingtonsMalevolence.esm
 AnotherInteriorMod.esm
+TLD_Travelers.esm
 The Living Desert - TTW Patch.esp
 A Trail of Crumbs.esm
 Regulators.esm
